@@ -1,0 +1,31 @@
+{
+  "name": "Project 52: Ironwall — Winter Rebuild",
+  "short_name": "Ironwall Winter",
+  "description": "November 15–February 28 · Bulk, legs, attention, faith, career, and life.",
+  "id": "./",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#010202",
+  "theme_color": "#0a1017",
+  "categories": [
+    "productivity",
+    "health",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

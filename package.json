@@ -1,0 +1,9 @@
+{
+  "name": "ironwall-winter-rebuild",
+  "version": "66.2.0",
+  "private": true,
+  "description": "Northstar Winter Rebuild: direct strength progress and a November 18 campaign.",
+  "scripts": {
+    "test": "node scripts/verify-repository.mjs && node scripts/verify-offline.mjs && node scripts/verify-strength.mjs"
+  }
+}
